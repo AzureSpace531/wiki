@@ -1,0 +1,49 @@
+**写作于22.7.7**
+
+## 安装双系统
+
+[https://www.bilibili.com/video/BV11k4y1k7Li?vd_source=a7a4b46a904073df2ce2942708049815](https://www.bilibili.com/video/BV11k4y1k7Li?vd_source=a7a4b46a904073df2ce2942708049815)
+
+参考这个视频，但是在安装ubuntu的时候，直接选正常安装就好了，不用理会他分区的这些复杂操作。
+
+安装完系统后有可能会出现各种问题，包括但不限于亮度无法调节，无法使用wifi等。我推荐
+
+先用手机的USB共享网络给电脑，以解决联网问题
+
+更换ubuntu的源
+
+在Settings里的最后一栏About,最后一栏Software Updates,里面有个Download from,找到中国，在中国那里选含有ustc字样的。之后确定即可。
+
+再然后，进行一次电脑的更新。重启过后问题大概就会解决。
+
+# FQ
+
+连接无线网络上github，（如果不能上github，可以使用手机热点尝试或者使用u盘，在windows系统，下载并放回ubuntu）。在github上，搜索clash for windows ，在右边的栏中有releases。点击后，显示的版本即为最新版本。寻找x64-linux.tar.gz为后缀的那一个，点击。现在应该已经在下载了。
+
+（回到ubuntu）。
+
+接下来的操作参照：
+
+[**https://www.cnblogs.com/Jiang13537/p/15571504.html**](https://www.cnblogs.com/Jiang13537/p/15571504.html)
+
+完成以上工作后，请参考视觉任务指引，
+
+主要参考视觉任务指引中搞好代理的部分，成功翻出去
+
+* 注意，要打开TUN模式，首先要进入General，然后点击Service Mode的Manage ，点击 install ,等上一会儿，估计10min
+
+然后等待Service Mode 的小地球变绿。
+
+绿了之后即可打开Tun。
+
+好了！！！你已经装好了双系统，而且在ubuntu上也翻好了墙。
+
+
+# ROS2 （galactic）的安装
+
+[https://docs.ros.org/en/galactic/Installation/Ubuntu-Install-Debians.html](https://docs.ros.org/en/galactic/Installation/Ubuntu-Install-Debians.html)
+
+tips:我们推荐在clash for windows的帮助下，进行安装（Install ROS 2 packages）否则很容易出现一些网络问题，例如:gpg error。在安装的过程中，一定要仔细阅读黄色框上面的提示，然后，决定输入黄色框中的命令进入命令行。**不是每一行都可以输进去的**（用ctrl + shift + v 可以将复制的内容粘贴到终端）
+
+**不推荐**：或者可以尝试使用小鱼一键安装，但是一键安装的配置过程太暴力了，而且官方包比较可信和稳定。
+https://fishros.org.cn/forum/topic/20/%E5%B0%8F%E9%B1%BC%E7%9A%84%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85%E7%B3%BB%E5%88%97?lang=zh-CN
