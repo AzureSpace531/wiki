@@ -1,2 +1,2 @@
 # wiki
-资料站
+AzureSpace战队资料站
