@@ -1,4 +1,4 @@
-**写作于22.7.7**
+**写作于22.7.15**
 
 ## 安装双系统
 
@@ -30,7 +30,7 @@
 
 主要参考视觉任务指引中搞好代理的部分，成功翻出去
 
-* 注意，要打开TUN模式，首先要进入General，然后点击Service Mode的Manage ，点击 install ,等上一会儿，估计10min
+* 注意，要打开TUN模式，首先要进入General，然后点击Service Mode的Manage ，点击 install ,等上一会儿，估计10min或者更久
 
 然后等待Service Mode 的小地球变绿。
 
@@ -39,11 +39,3 @@
 好了！！！你已经装好了双系统，而且在ubuntu上也翻好了墙。
 
 
-# ROS2 （galactic）的安装
-
-[https://docs.ros.org/en/galactic/Installation/Ubuntu-Install-Debians.html](https://docs.ros.org/en/galactic/Installation/Ubuntu-Install-Debians.html)
-
-tips:我们推荐在clash for windows的帮助下，进行安装（Install ROS 2 packages）否则很容易出现一些网络问题，例如:gpg error。在安装的过程中，一定要仔细阅读黄色框上面的提示，然后，决定输入黄色框中的命令进入命令行。**不是每一行都可以输进去的**（用ctrl + shift + v 可以将复制的内容粘贴到终端）
-
-**不推荐**：或者可以尝试使用小鱼一键安装，但是一键安装的配置过程太暴力了，而且官方包比较可信和稳定。
-https://fishros.org.cn/forum/topic/20/%E5%B0%8F%E9%B1%BC%E7%9A%84%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85%E7%B3%BB%E5%88%97?lang=zh-CN
