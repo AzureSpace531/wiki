@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "f2731ed70877575c",
+    "type": "split",
+    "children": [
+      {
+        "id": "57cbb51898c4bbf7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "提高ubuntu的使用体验.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e788399ca9eb088e",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb054f058217e293",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "459d106f9e82974f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8991c36500e0b527",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d808b80e528ef547",
+    "type": "split",
+    "children": [
+      {
+        "id": "03a7ded4c6996299",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cbc6cd92a1170f61",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "提高ubuntu的使用体验.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "57cbb51898c4bbf7",
+  "lastOpenFiles": [
+    "提高ubuntu的使用体验.md",
+    "学习资料&&学习观点.md",
+    "win10与ubuntu的双系统.md"
+  ]
+}
