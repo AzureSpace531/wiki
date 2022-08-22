@@ -1,4 +1,6 @@
 # wiki
 AzureSpace战队资料站
 
-### 为了优化观看感受，建议下载下来之后，用浏览器、vscode或者下载Obsidian打开
+食用方式：
+1. 下载下来之后，用Obsidian打开
+2. 直接在线预览
