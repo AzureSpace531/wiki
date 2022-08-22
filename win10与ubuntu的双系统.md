@@ -16,7 +16,7 @@
 
 再然后，进行一次电脑的更新。重启过后问题大概就会解决。
 
-# FQ
+# FanQiang
 
 连接无线网络上github，（如果不能上github，可以使用手机热点尝试或者使用u盘，在windows系统，下载并放回ubuntu）。在github上，搜索clash for windows ，在右边的栏中有releases。点击后，显示的版本即为最新版本。寻找x64-linux.tar.gz为后缀的那一个，点击。现在应该已经在下载了。
 
@@ -24,11 +24,12 @@
 
 接下来的操作参照：
 
-[**https://www.cnblogs.com/Jiang13537/p/15571504.html**](https://www.cnblogs.com/Jiang13537/p/15571504.html)
 
-完成以上工作后，请参考视觉任务指引，
+[clash的设置](https://www.cnblogs.com/Jiang13537/p/15571504.html)
 
-主要参考视觉任务指引中搞好代理的部分，成功翻出去
+
+[代理购买地址](https://my.pokcloud.com/clientarea.php)
+
 
 * 注意，要打开TUN模式，首先要进入General，然后点击Service Mode的Manage ，点击 install ,等上一会儿，估计10min或者更久
 
@@ -37,5 +38,3 @@
 绿了之后即可打开Tun。
 
 好了！！！你已经装好了双系统，而且在ubuntu上也翻好了墙。
-
-
