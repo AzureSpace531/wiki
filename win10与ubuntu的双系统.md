@@ -31,10 +31,8 @@
 [代理购买地址](https://my.pokcloud.com/clientarea.php)
 
 
-* 注意，要打开TUN模式，首先要进入General，然后点击Service Mode的Manage ，点击 install ,等上一会儿，估计10min或者更久
-
-然后等待Service Mode 的小地球变绿。
-
-绿了之后即可打开Tun。
-
-好了！！！你已经装好了双系统，而且在ubuntu上也翻好了墙。
+在下载ROS2的时候，推荐打开TUN模式，
+1. 要进入General，然后点击Service Mode的Manage ，点击 install ,等上一会儿，估计10min或者更久；
+2. 等待Service Mode 的小地球变绿。
+3. 绿了之后即可打开Tun。
+4. 好了！！！你已经装好了双系统，而且在ubuntu上也翻好了墙。
