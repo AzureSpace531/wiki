@@ -26,8 +26,9 @@
 2. 安装[clash for windows](https://github.com/Fndroid/clash_for_windows_pkg/releases): 点击链接，寻找x64-linux.tar.gz为后缀的，点击下载。
 3. 接下来的操作参照：[clash的设置](https://www.cnblogs.com/Jiang13537/p/15571504.html)
 #### 进阶，**打开TUN模式**
-1. 要进入General，然后点击Service Mode的Manage ，点击 install ,等上一会儿，估计3min；
-2. 3分钟后不行，则重启一下系统，重复以上操作。
-3. 绿了之后即可打开Tun。
+1. 此举为了全面翻墙，但是要注意，校园网也有一些微弱的翻墙功能。是否使用，应视实际使用情况。
+2. 要进入General，然后点击Service Mode的Manage ，点击 install ,等上一会儿，估计3min；
+3. 3分钟后不行，则重启一下系统，重复以上操作。
+4. 绿了之后即可打开Tun。
 
 
