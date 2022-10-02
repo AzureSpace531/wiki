@@ -1,6 +1,6 @@
 # ubuntu简单教程和指引
 
-**更新于22.9.8**
+**更新于22.10.2**
 ## 目录
 * 终端
 * 沟通、截图
@@ -36,7 +36,7 @@
 ### 代码编辑器
 不是要全部安装，而是挑选合适的安装。
 1. [vscode](https://code.visualstudio.com/)，比较全面的代码编辑器，涵盖许多语言，主要利用插件来逐步完善编辑器功能。
-2. [Clion](https://www.jetbrains.com/clion/),推荐在淘宝买号。
+2. [Clion](https://www.jetbrains.com/clion/),推荐自己申请一个学生账号，免费哒！
 3. [Pycharm](https://www.jetbrains.com/pycharm/)python的编辑器，好用就完了。
 4. [anaconda](https://www.anaconda.com/)。自带jupyter notebook，属于深度学习必备环境管理。但是与ROS2会有些许冲突。ROS2会迷失Python的路径。建议使用时，不要一起开。
 
