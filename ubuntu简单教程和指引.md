@@ -41,9 +41,9 @@
 4. [anaconda](https://www.anaconda.com/)。自带jupyter notebook，属于深度学习必备环境管理。但是与ROS2会有些许冲突。ROS2会迷失Python的路径。建议使用时，不要一起开。
 
 ### git
-1. 在终端输入git，会有语句下载的提示。
-2. [下载gitCLI](https://cli.github.com/)，主要使用这个东西进行账号的登录。可以避开一些秘钥的东西。
-3. 学习[git命令](https://www.runoob.com/git/git-tutorial.html)
+1. 在终端输入git，会有语句下载的提示
+2. 学习[git命令](https://www.runoob.com/git/git-tutorial.html)
+3. 可以跟着github的官方教程，做SSH秘钥
 
 
 
