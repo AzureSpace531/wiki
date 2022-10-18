@@ -225,4 +225,3 @@ sudo service xrdp-sesman.service enable
 export XDG_RUNTIME_DIR=/usr/lib/
 ```
 
-docker commit -m="ubuntuxface桌面xrdp和ros_noetic" -a="xiaolaa" df2fbc5a52923006d5704f5eabd200357570815acf99e272a126a11ccd0fa32d ubuntu22.04_desktop_ros:ros_noetic
